@@ -1,5 +1,5 @@
 Why make trillions when we could make... billions?
-phase2
+1 2 4 8 16 32
 phase3
 phase4
 phase5
